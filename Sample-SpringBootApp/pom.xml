@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>nit</groupId>
 	<artifactId>Sample-SpringBootApp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>Sample-SpringBootApp</name>
 	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
